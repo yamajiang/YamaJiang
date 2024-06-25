@@ -5,5 +5,6 @@
 🌷 HTML/CSS, Python, C, Java <br/>
 🌱 Planning to learn JavaScript next <br/>
 💌 Contact: yamajiang.cs@gmail.com <br/>
+🖇️ Let's Connect on {LinkedIn}(https://linkedin.com/in/yamajiang) !
 
 
