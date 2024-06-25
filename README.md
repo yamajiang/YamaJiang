@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi, I'm Yama! 
+### Hi there 👋 I'm Yama! 
 
 👩🏻‍💻 Studying Commputer Science at the University of Central FLorida <br/>
 🔭 Currently working on a basic Minesweeper clone to practice Java <br/>
