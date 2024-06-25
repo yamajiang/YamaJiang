@@ -3,10 +3,10 @@ Hi, I'm Yama!
 
 Here are some ideas to get you started:
 
-👩🏻‍💻 Studying Commputer Science at the University of Central FLorida 
-🔭 Currently working on a basic Minesweeper clone to practice Java
-🌷 HTML/CSS, Python, C, Java 
-🌱 Planning to learn JavaScript next 
-💌 Contact: yamajiang.cs@gmail.com
+👩🏻‍💻 Studying Commputer Science at the University of Central FLorida <br/>
+🔭 Currently working on a basic Minesweeper clone to practice Java <br/>
+🌷 HTML/CSS, Python, C, Java <br/>
+🌱 Planning to learn JavaScript next <br/>
+💌 Contact: yamajiang.cs@gmail.com <br/>
 
 
