@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yama! 
 
-👩🏻‍💻 Studying Commputer Science at the University of Central FLorida <br/>
+👩🏻‍💻 Studying Computer Science at the University of Central FLorida <br/>
 🔭 Currently working on a basic Minesweeper clone to practice Java <br/>
 🌷 HTML/CSS, Python, C, Java <br/>
 🌱 Planning on learning JavaScript next <br/>
