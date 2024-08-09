@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yama! 
 
-👩🏻‍💻 Studying Computer Science at the University of Central FLorida <br/>
+👩🏻‍💻 Studying Computer Science at the University of Central Florida <br/>
 🔭 Working on my portfolio website :D<br/>
 🌷 HTML/CSS, Python, C, Java <br/>
 🌱 Currently learning JavaScript <br/>
