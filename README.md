@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yama! 
+### Hi there 👋 I'm Yama!
 
 👩🏻‍💻 Studying Computer Science at the University of Central Florida <br/>
 🌷 HTML/CSS, Python, C, Java <br/>
