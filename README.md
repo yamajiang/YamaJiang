@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yama!
 
 👩🏻‍💻 Studying Computer Science at the University of Central Florida <br/>
-🌷 HTML/CSS, Python, C, Java <br/>
+🌷 HTML/CSS, Python, C, Java, JavaScript <br/>
 🌱 Currently working on .... <br/>
 🖇 Let's connect on [LinkedIn](https://linkedin.com/in/yamajiang) ! <br/>
 🔗 Visit my website here: [yamajiang.dev](https://yamajiang.dev) (still a work in progress)<br/>
